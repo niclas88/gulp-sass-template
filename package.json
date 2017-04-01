@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/niclas88/gulp-sass-template/issues"
   },
-  "homepage": "https://github.com/niclas88/sass-template#readme",
+  "homepage": "https://github.com/niclas88/gulp-sass-template#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "del": "^2.2.2",
