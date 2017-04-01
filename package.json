@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niclas88/sass-template.git"
+    "url": "git+https://github.com/niclas88/gulp-sass-template.git"
   },
   "author": "Niclas Andersson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/niclas88/sass-template/issues"
+    "url": "https://github.com/niclas88/gulp-sass-template/issues"
   },
   "homepage": "https://github.com/niclas88/sass-template#readme",
   "devDependencies": {
